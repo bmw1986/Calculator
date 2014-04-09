@@ -1,4 +1,4 @@
 Calculator
 ==========
 
-Calculator for Lab
+Simple calculator designed with Java Swing
